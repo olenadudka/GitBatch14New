@@ -7,6 +7,7 @@ public class class03 {
 System.out.println("I made a change in my project");
 System.out.println("One more message");
 System.out.println("How are you this a new version");
+System.out.println("Hi!");
 	}
 
 }
